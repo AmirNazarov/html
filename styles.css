@@ -1,0 +1,25 @@
+img {
+	
+  width: 200px;
+ 
+}
+header {
+    text-align: center;
+    padding: 10px;
+    
+}
+body {
+	background-color: #FFF4E4;
+	font-family: verdana;
+
+}
+.textcent { 
+ text-align: center;
+}
+.centimg {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+	
